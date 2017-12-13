@@ -10,3 +10,6 @@ EMAIL ID: S.KARRI@EAGLES.OC.EDU
 
 PROGRAM NAME:MONTE CARLO METHOD FOR COMPUTING PI
 TESTED OS: WINDOWS
+
+
+REFERENCE : http://www.dartmouth.edu/~rc/classes/soft_dev/C_simple_ex.html
